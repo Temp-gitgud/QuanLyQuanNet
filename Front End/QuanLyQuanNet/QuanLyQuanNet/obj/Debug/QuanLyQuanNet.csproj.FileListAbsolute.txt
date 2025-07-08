@@ -1,0 +1,10 @@
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe.config
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.pdb
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csprojAssemblyReference.cache
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Properties.Resources.resources
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.QuanLyBan.resources
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.GenerateResource.cache
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.CoreCompileInputs.cache
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.exe
+C:\Users\T&T Center\Downloads\Doannhomcs464\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.pdb
